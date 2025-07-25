@@ -22,7 +22,7 @@ A full stack URL shortener application built using **Spring Boot** for the backe
 - Spring Boot
 - Spring Data JPA
 - RESTful APIs
-- H2 (or PostgreSQL/MySQL as optional)
+- MySql
 
 ---
 
@@ -101,10 +101,22 @@ Make sure to update the backend base URL in `axios` or `.env` config if running 
 ---
 
 ## 📸 UI Overview
+Login Page:
+<img width="1919" height="1081" alt="image" src="https://github.com/user-attachments/assets/83d11436-6084-499b-8744-055827a7debb" />
+SignUp page:
+<img width="1912" height="1083" alt="image" src="https://github.com/user-attachments/assets/b9743c52-3da0-471d-b0d5-56c314b7aea8" />
+Home
+<img width="1919" height="1100" alt="image" src="https://github.com/user-attachments/assets/09a14571-52ed-491d-911a-a323076a21e9" />
+Dashboard
+<img width="1914" height="1130" alt="image" src="https://github.com/user-attachments/assets/db34fb81-f985-4bfc-b93f-44d282727fd1" />
+Create New Shorten Url
+<img width="310" height="220" alt="image" src="https://github.com/user-attachments/assets/64b99ec4-dbbf-4bb7-8017-b2228ee57629" />
+About
+<img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/ac791377-7480-465b-a480-4a08ab939c24" />
+Logout
+<img width="1906" height="1075" alt="image" src="https://github.com/user-attachments/assets/19e303f3-1abe-4d63-a8a1-bac6acabac8d" />
 
-> You can include screenshots or a demo GIF here.
 
----
 
 ## 📜 License
 
