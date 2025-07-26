@@ -133,11 +133,6 @@ This project is licensed under the MIT License.
 **PramilaOM**  
 🔗 GitHub: [github.com/pramilaOM](https://github.com/pramilaOM)
 
----
-
-## 🌐 Live Demo
-
-> *(Optional)* Add Netlify, Vercel, or Railway/Fly.io link here after deployment.
 
 ---
 
